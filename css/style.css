@@ -1,0 +1,12 @@
+body {
+    font-family: "Poppins", sans-serif;
+}
+header {
+    background-image: linear-gradient(to right, white, #DEAC80);
+}
+.footer {
+    padding: 20px 0;
+}
+.navbar {
+    padding: 10px;
+}
